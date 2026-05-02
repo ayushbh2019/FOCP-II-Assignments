@@ -1,0 +1,6 @@
+Write a beginner-friendly C++ console program that generates random student excuses.
+The program should ask for the student’s name.
+Store at least 10 excuse templates in a vector.
+Randomly select one excuse and replace {name} with the user’s input.
+Ensure different excuses appear each time the program runs.
+Keep the code simple and well commented.
